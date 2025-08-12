@@ -3,6 +3,12 @@
     src: url(./assets/Norse-Bold.otf);
 }
 
+html, body {
+  overflow-x: hidden; 
+  width: 100%;       
+}
+
+
 body {
     margin: 0;
     font-family: 'Norse-Bold', 'sans-serif';
